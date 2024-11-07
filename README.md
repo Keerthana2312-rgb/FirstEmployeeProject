@@ -14,4 +14,4 @@ Use the GET to find employees by their ID
 ## Technology Stack
 * Java: For handling functionality, including adding, promoting, and removing employees.
 * Swagger: swagger used to descripe the structure of the API
-* Database: Used MySQL database to 
+* Database: Used MySQL database to store the employee details.
