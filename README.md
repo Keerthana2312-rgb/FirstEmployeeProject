@@ -55,9 +55,6 @@ Development:http://localhost:8080/api/v1
 | `lastName`  | String   | Employee's last_name                     |                            |
 | `email`     | String   | Email address (format: email_id)           |
 
-- ### Link -
-https://github.com/mbSabari17/employee_management/blob/b87ecf01c6995baddc332d2a990b060ba40f0318/api/employee_management.yaml
-
 ## Test Cases for Employee Management API
 
 #### Summary
@@ -80,9 +77,6 @@ These test cases provide a comprehensive approach to validating the core functio
 - The API should return appropriate status codes (200, 201, 204, 400, 404, 500) based on the actions performed.
 - Responses should include relevant messages to indicate success or the nature of any errors encountered.
 - The API must maintain data integrity, ensuring accurate retrieval, creation, updating, and deletion of employee records.
-
-- ### Link -
-- https://github.com/mbSabari17/employee_management/blob/b87ecf01c6995baddc332d2a990b060ba40f0318/src/test/java/com/example/employee_management/feature/TestCase.feature
 
 ## Database Schema for Employee Management
 
@@ -124,7 +118,7 @@ This is a Spring Boot-based RESTful API designed for managing employee records. 
 - **RESTful API**: Follows REST principles for data access.
 
 - ### Link -
-- [https://github.com/mbSabari17/employee_management/tree/b87ecf01c6995baddc332d2a990b060ba40f0318/src/main/java/com/example/employee_management](https://github.com/Keerthana2312-rgb/FirstEmployeeProject/tree/master/src/main/java/com/example/springboot)
+- (https://github.com/Keerthana2312-rgb/FirstEmployeeProject/tree/master/src/main/java/com/example/springboot)
 
 ## Questions or Clarifications
 
