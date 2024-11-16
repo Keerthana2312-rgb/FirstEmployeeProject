@@ -1,11 +1,12 @@
 # Employee-Management-System
 Employee Management System allows users to add, promote, delete, and search employee records. Data is stored using MySQL Database.
 
-## Key Features
-* POST Employees:<br/>
-Easily add new employees by inputting their details such as Employee ID, First_Name, Last_Name, Email_Id.
-* PUT Employees<br/>
-Update an employee's information by entering a Employee ID.
+## Key Classes
+* Employee<br>
+Represents an employee with attributes like id, firstName, lastName, email_id.
+Includes getter and setter methods for each attribute.
+* EmployeeService<br/>
+Provides methods for managing employees, such as retrieving the list of employees, creating new employees, and updating or deleting existing ones.
 * DELETE Employees<br/>
 Remove employee records by providing Employee Id and Employee records will be deleted fromt he database.
 * GET Employee:<br/>
